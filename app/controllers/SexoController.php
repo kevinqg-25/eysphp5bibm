@@ -1,7 +1,8 @@
 
 <!DOCTYPE html>
 <?php
-// MEJORAS EN VISUAL CODE
+// MEJORAS EN VISUAL CODE hola grupo ibm 
+// 14/04/2026
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 // En SexoController.php
